@@ -1,0 +1,203 @@
+Cmp-Mod V01 Created by PcbNew   date = Sun 03 Apr 2022 22:52:34 CEST
+
+BeginCmp
+TimeStamp = 016a41c6-d29b-42f1-a2a9-7de6e6f3c315
+Path = /00000000-0000-0000-0000-0000619b3205
+Reference = L1;
+ValeurCmp = 330uH/2A;
+IdModule  = Inductor_THT:L_Toroid_Vertical_L25.4mm_W14.7mm_P12.20mm_Vishay_TJ5_BigPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 0bd38e01-1f97-41ac-a77f-572a6e3a23e8
+Path = /00000000-0000-0000-0000-000061afebf3
+Reference = LOGO3;
+ValeurCmp = WEEE;
+IdModule  = Symbol:WEEE-Logo_4.2x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 22d81e74-6415-49d8-9e8d-53134befad88
+Path = /00000000-0000-0000-0000-0000619c52d8
+Reference = CONN1;
+ValeurCmp = VAC;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 39e2ece5-fc98-44e0-9382-db6c9fe5c3bd
+Path = /00000000-0000-0000-0000-000061f1b545
+Reference = L2;
+ValeurCmp = FL2D-Z5-103;
+IdModule  = AE01.07.50.100:FL2D-Z5-103;
+EndCmp
+
+BeginCmp
+TimeStamp = 3a98c8f5-c991-44ec-a6ec-c3bb1327639f
+Path = /00000000-0000-0000-0000-0000619b4215
+Reference = C1;
+ValeurCmp = 0.1uF/275VAC;
+IdModule  = Capacitor_THT:C_Rect_L18.0mm_W5.0mm_P15.00mm_FKS3_FKP3;
+EndCmp
+
+BeginCmp
+TimeStamp = 57aa2961-e7d0-4e03-b659-f62e4c7ae0d0
+Path = /00000000-0000-0000-0000-000061afcb16
+Reference = LOGO2;
+ValeurCmp = SYM_ESD_Large;
+IdModule  = Symbol:ESD-Logo_6.6x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5acbfe81-04ec-45da-9628-83c612dbc6b1
+Path = /00000000-0000-0000-0000-0000619a8f7f
+Reference = C3;
+ValeurCmp = 1nF/400VAC;
+IdModule  = Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P7.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 62a4d238-bb99-44f4-bfd4-94984d5a0447
+Path = /00000000-0000-0000-0000-0000619a3f74
+Reference = PS1;
+ValeurCmp = IRM-03-24;
+IdModule  = Converter_ACDC:Converter_ACDC_MeanWell_IRM-03-xx_THT;
+EndCmp
+
+BeginCmp
+TimeStamp = 6bffd6a0-0a47-4e75-a4df-402f9c726f6e
+Path = /00000000-0000-0000-0000-0000619a86ad
+Reference = C2;
+ValeurCmp = 1nF/400VAC;
+IdModule  = Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P7.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6e77d384-312a-4503-ae18-fa7267cd0780
+Path = /00000000-0000-0000-0000-0000619d943f
+Reference = CONN2;
+ValeurCmp = VOUT;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6e9d8f52-3405-4c11-8cdc-18cccb269c6d
+Path = /00000000-0000-0000-0000-0000619b0ea6
+Reference = H2;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 720e1d5d-0dcd-49d2-a1dd-948370045c5b
+Path = /aeaec11c-8708-4952-9aed-3efeefb16de2
+Reference = C5;
+ValeurCmp = 68uF/50V;
+IdModule  = Capacitor_THT:CP_Radial_D8.0mm_P3.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 83854fcd-fd70-408b-9e7e-9aedfc2aad58
+Path = /00000000-0000-0000-0000-0000619c01db
+Reference = F1;
+ValeurCmp = 0031.8201;
+IdModule  = Fuse:Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open;
+EndCmp
+
+BeginCmp
+TimeStamp = 894dec36-bc08-479d-a3cd-82214614633d
+Path = /00000000-0000-0000-0000-0000619b146e
+Reference = H3;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 9ab46afd-f714-4c8d-926e-fdd81ad4e425
+Path = /00000000-0000-0000-0000-0000619b6ea4
+Reference = RV1;
+ValeurCmp = S14K350;
+IdModule  = Varistor:RV_Disc_D15.5mm_W3.9mm_P7.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = b2222e6a-882c-40d4-b385-6d8027e3c680
+Path = /00000000-0000-0000-0000-0000619a7bcc
+Reference = R1;
+ValeurCmp = 33R/3W;
+IdModule  = Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P5.08mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = df1e05a9-b8f5-42ba-8b2f-368b76a55775
+Path = /00000000-0000-0000-0000-0000619a4976
+Reference = C4;
+ValeurCmp = 1uF/50V;
+IdModule  = Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = e2c91a06-02e0-4465-8ad1-7c579dc5c5f8
+Path = /00000000-0000-0000-0000-0000619b074d
+Reference = H1;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = e302053b-47d6-4563-bd12-4f1e5d39cbdd
+Path = /00000000-0000-0000-0000-0000619b19c3
+Reference = H4;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = f321564a-d09a-4c5c-ae6c-7a3ca61abcc5
+Path = /00000000-0000-0000-0000-0000619b10fa
+Reference = TVS1;
+ValeurCmp = 1.5KE7.5CA;
+IdModule  = Diode_THT:D_DO-201_P5.08mm_Vertical_KathodeUp;
+EndCmp
+
+BeginCmp
+TimeStamp = 96fecc19-712d-4189-acce-39e56df6a917
+Path = /00000000-0000-0000-0000-000061c79acc
+Reference = LOGO5;
+ValeurCmp = HIGH_VOLTAGE;
+IdModule  = Symbol:Symbol_HighVoltage_Type2_CopperTop_VerySmall;
+EndCmp
+
+BeginCmp
+TimeStamp = 9e78afa0-bb17-4e5a-860f-a9008c8ef853
+Path = /00000000-0000-0000-0000-000061b00d06
+Reference = LOGO4;
+ValeurCmp = KICAD;
+IdModule  = Symbol:KiCad-Logo2_5mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = eac2bd9c-0b5a-4c02-a0db-ee213b6d4520
+Path = /00000000-0000-0000-0000-000061afa5f0
+Reference = LOGO1;
+ValeurCmp = Logo_Open_Hardware_Small;
+IdModule  = Symbol:OSHW-Logo_5.7x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = f089a10f-ab92-4d91-a95d-8c34b6800ca6
+Path = /1d49e18d-e59f-4231-bfbf-880c88e3c3ec
+Reference = E2;
+ValeurCmp = SparkGap;
+IdModule  = Spark_Gap:SparkGap-2_P1.3mm_OpenTrianglePad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = f0c486ea-8fdb-49cc-877f-2ed6f80e037d
+Path = /60451eeb-4b5f-4ad5-afe8-e05779888dd1
+Reference = E1;
+ValeurCmp = SparkGap;
+IdModule  = Spark_Gap:SparkGap-2_P1.3mm_OpenTrianglePad1.0x1.5mm;
+EndCmp
+
+EndListe

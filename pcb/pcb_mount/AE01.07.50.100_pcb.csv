@@ -1,0 +1,21 @@
+Id;Designator;Package;Quantity;Designation;Supplier and ref
+1;L1;L_Toroid_Vertical_L25.4mm_W14.7mm_P12.20mm_Vishay_TJ5_BigPads;1;330uH/2A;
+2;LOGO3;WEEE-Logo_4.2x6mm_SilkScreen;1;WEEE;
+3;CONN1;TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal;1;VAC;
+4;L2;FL2D-Z5-103;1;FL2D-Z5-103;
+5;C1;C_Rect_L18.0mm_W5.0mm_P15.00mm_FKS3_FKP3;1;0.1uF/275VAC;
+6;LOGO2;ESD-Logo_6.6x6mm_SilkScreen;1;SYM_ESD_Large;
+7;C3,C2;C_Disc_D7.5mm_W5.0mm_P7.50mm;2;1nF/400VAC;
+8;PS1;Converter_ACDC_MeanWell_IRM-03-xx_THT;1;IRM-03-24;
+9;CONN2;PinSocket_2x02_P2.54mm_Vertical;1;VOUT;
+10;H2,H3,H1;MountingHole_3.2mm_M3;3;MountingHole;
+11;C5;CP_Radial_D8.0mm_P3.50mm;1;68uF/50V;
+12;F1;Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open;1;0031.8201;
+13;RV1;RV_Disc_D15.5mm_W3.9mm_P7.5mm;1;S14K350;
+14;R1;R_Axial_DIN0516_L15.5mm_D5.0mm_P5.08mm_Vertical;1;33R/3W;
+15;C4;C_Disc_D5.1mm_W3.2mm_P5.00mm;1;1uF/50V;
+16;H4;MountingHole_3.2mm_M3_Pad_Via;1;MountingHole_Pad;
+17;TVS1;D_DO-201_P5.08mm_Vertical_KathodeUp;1;1.5KE7.5CA;
+18;LOGO5;Symbol_HighVoltage_Type2_CopperTop_VerySmall;1;HIGH_VOLTAGE;
+19;LOGO4;KiCad-Logo2_5mm_SilkScreen;1;KICAD;
+20;LOGO1;OSHW-Logo_5.7x6mm_SilkScreen;1;Logo_Open_Hardware_Small;

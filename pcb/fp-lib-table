@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name "pcb")(type "KiCad")(uri "/home/astroelectronica/kicad/projects/AE01.07.50.100/pcb")(options "")(descr ""))
-  (lib (name "AE01.07.50.100")(type "KiCad")(uri "${KIPRJMOD}/AE01.07.50.100.pretty")(options "")(descr ""))
-  (lib (name "Spark_Gap")(type "KiCad")(uri "/home/astroelectronica/kicad/footprints/Spark_Gap.pretty")(options "")(descr ""))
-)
